@@ -1,0 +1,19 @@
+.head{
+    text-align: center;
+}
+.input{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.txtInput{
+margin-left: 10px;
+}
+
+.buttonGroup{
+   margin: 10px;
+    display: flex;
+justify-content: space-between;
+}
+
